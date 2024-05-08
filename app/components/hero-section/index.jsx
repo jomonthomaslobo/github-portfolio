@@ -49,13 +49,7 @@ function HeroSection({ profile }) {
             >
               <FaFacebook size={24} />
             </Link>
-            <Link
-              href={userData.leetcode}
-              target='_blank'
-              className="transition-all text-teal-500 hover:scale-125 duration-300"
-            >
-              <SiLeetcode size={24} />
-            </Link>
+            
             <Link
               href={userData.twitter}
               target='_blank'
@@ -147,7 +141,7 @@ function HeroSection({ profile }) {
               </div>
               <div>
                 <span className="ml-4 lg:ml-8 mr-2 text-white">hireable:</span>
-                <span className="text-orange-400">{profile?.hireable.toString()}</span>
+                {/* <span className="text-orange-400">{profile?.hireable.toString()}</span> */}
                 <span className="text-gray-400">,</span>
               </div>
               <div><span className="text-gray-400">{`};`}</span></div>

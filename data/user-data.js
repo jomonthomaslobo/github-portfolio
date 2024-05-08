@@ -1,13 +1,13 @@
 export const userData = {
-  githubUser: 'said7388',
-  devUsername: "said7388",
-  github: 'https://github.com/said7388',
-  facebook: 'https://www.facebook.com/abusaid.riyaz/',
-  linkedIn: 'https://www.linkedin.com/in/abu-said-bd/',
-  twitter: 'https://twitter.com/said7388',
-  stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
-  leetcode: "https://leetcode.com/said3812/",
-  resume: "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing",
-  skills: ['React', 'NextJS', 'Redux', 'Express', 'NestJS', 'MySql', 'MongoDB', 'Postgres', 'Docker', 'AWS'],
-  timezone: '+6'
+  githubUser: 'jomonthomaslobo',
+  devUsername: "jomonthomaslobo",
+  github: 'https://github.com/jomonthomaslobo',
+  facebook: 'https://www.facebook.com/jomonthomaslobo/',
+  linkedIn: 'https://www.linkedin.com/in/jomonthomaslobo/',
+  twitter: 'https://twitter.com/jomonthomaslobo',
+  stackOverflow: 'https://stackoverflow.com/users/8630284/jomon-thomas-lobo',
+  leetcode: "#",
+  resume: "https://drive.google.com/file/d/1mF8cyEN65LhtckIvxWRyUREdpfO0B-9F/view?usp=drive_link",
+  skills: ['PHP','Laravel','WordPress','React', 'Codeigniter', 'MySQL', 'Docker', 'AWS'],
+  timezone: '+530'
 };
